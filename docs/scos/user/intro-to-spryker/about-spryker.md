@@ -37,7 +37,7 @@ redirect_from:
 The Spryker Commerce OS (SCOS) is a completely modular B2B and B2C e-commerce technology. With the modular application and API-based integration with all possible customer touchpoints (front-ends), SCOS provides significantly shorter time-to-market and reduced total cost of ownership, while increasing your ROI due to the digital best practices.
 ![image](https://spryker.s3.eu-central-1.amazonaws.com/docs/About/About+Spryker/Spryker-OS-Overview-RGB-JULY19_Spryker-OS-Overview.png)
 
-We establish a unique advantage for our customers by creating a commerce operating system that revolves around two cornerstones for success: modular and layered architectures.
+We establish a unique advantage for our customers by creating a commerce operating system that revolves around two cornerstones for success: modular and layered architectures
 
 ### Modular architecture
 Modular architecture, or modularity of the Spryker Commerce OS, means that the system is composed of small parts called modules. The Spryker Commerce OS consists of over 750 modules. Some of them are mandatory and required by the OS to run, but many are optional and designed to provide certain functionality or connectivity to either internal or external systems.
